@@ -1,0 +1,8 @@
+7
+milk	2.0	cartons	13.0
+kiwi	8.0	st	4.0
+avokado	3.0	st	15.0
+canadian milk	2.0	bag	11.0
+banana	4.0	st	4.5
+cocoa	1.0	pkt	25.0
+bike	1.0	unit	1599.0
